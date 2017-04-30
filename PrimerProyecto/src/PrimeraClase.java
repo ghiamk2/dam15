@@ -4,6 +4,7 @@ PrimeraClase(){
 	String nombre="xabier";
 	String apellido="luque";
 	int telefono= 94448844;
+	int edad=31;
 };
 
 
