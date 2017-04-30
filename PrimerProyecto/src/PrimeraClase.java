@@ -5,7 +5,8 @@ PrimeraClase(){
 	String apellido="luque";
 	int telefono= 94448844;
 	int edad=31;
-};
+	float sueldo = 100000000;
+	};
 
 
 
