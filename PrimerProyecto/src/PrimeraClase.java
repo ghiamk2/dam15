@@ -6,7 +6,7 @@ PrimeraClase(){
 	int telefono= 94448844;
 	int edad=31;
 	float sueldo = 100000000;
-	boolean estonto= t;
+	char inicial = "x";
 	};
 
 
